@@ -1,0 +1,3 @@
+This plugin will completely deactivate XML-RPC on your WordPress installation. This will prevent any brute force attacks to your website using XML-RPC. 
+
+By using the plugin, it will remove your ability to post using XML-RPC protocol, which means no more, post ping backs, remote post from Wordpress mobile app, remote post from windows live writer, and other applications that requires XML-RPC.
